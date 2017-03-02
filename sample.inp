@@ -1,0 +1,31 @@
+sourceCodePath='/Softwares/optimalProbes'
+
+# Job Identifiers
+jobname = "test-01"
+
+# Genetic Algorithm Parameters
+N_ITERATIONS=20
+populationSize=20
+percentMutation=50
+percentCrossover=20
+
+# Experiment Constraints
+DEER_low = 1.8
+DEER_up = 6.0
+min_probes=2
+max_probes=10
+
+# Trajectory Information
+topology_file = "/home/trajectories/test.pdb"
+traj_path = "/home/trajectories"
+trajectory_format = "dcd"
+
+# Protein Topology Information
+elements=[range(0,5),range(5,37),range(37,44),range(44,73),range(73,81)]
+not_allowed=range(8,34)+range(47,70)
+intra=range(21,58)+range(97,137)
+extra=range(0,21)+range(58,97)
+
+# Osprey Parameters
+clusters=200
+lagtime=500

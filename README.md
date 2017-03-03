@@ -7,5 +7,5 @@ diwakar [at] illinois [dot] edu
 
 Visit Optimal Probes [Wiki](https://github.com/ShuklaGroup/optimalProbes/wiki) for a tutorial and examples.
 
-## Citation
+### Citation
 Mittal, S and Shukla, D. "Optimal Probes: An Efficient Method to Select Deer Distance Restraints using Machine Learning." Biophysical Journal 112.3 (2017). 

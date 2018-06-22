@@ -8,8 +8,8 @@ diwakar [at] illinois [dot] edu
 Visit Optimal Probes [Wiki](https://github.com/ShuklaGroup/optimalProbes/wiki) for a tutorial and examples.
 
 ### Citation
-Mittal S and Shukla D. "Optimal Probes: An Efficient Method to Select Deer Distance Restraints using Machine Learning". Biophysical Journal 112.3 (2017). 
+Mittal S and Shukla D. "Predicting Optimal DEER Label Positions to Study Protein Conformational Heterogeneity". Journal of Physical Chemistry B (2017)
 
-Mittal S and Shukla D. "An Algorithm to Predict Optimal EPR/DEER Label Positions to Study Protein Dynamics". Submitted (2017)
+Mittal S and Shukla D. "Optimal Probes: An Efficient Method to Select Deer Distance Restraints using Machine Learning". Biophysical Journal 112.3 (2017).
 
-Selvam B, Mittal S and Shukla D. "In silico Predictions of Conformational States of Bacterial Transporter PepT<sub>So</sub>". Submitted (2017) 
+Selvam B, Mittal S and Shukla D. "In silico Predictions of Conformational States of Bacterial Transporter PepTSo". Submitted (2018)
